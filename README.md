@@ -54,8 +54,6 @@ If you'd like to support my open source work (like Queer Calendar), you can:
 
 Thanks for stopping by!
 
-![Profile views](https://revcounter.dev/dorien-d/github/profile?style=flat-square)
-<img alt="Profile views" src="https://revcounter.dev/dorien-d/github/profile?style=for-the-badge" />
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DorienD.DorienD)
 
 
