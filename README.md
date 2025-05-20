@@ -19,7 +19,7 @@ I care deeply about:
 - Open source collaboration
 - Privacy friendly tools and platforms
 - Designing large and complex content structures with clarity
-- Teaching the next generation of webmakers with care and curiosity
+- Teaching the next generation of web engineers with care and curiosity
 - Empowering queer and marginalized communities through the web
 
 ## 🧠 Tech Stack
